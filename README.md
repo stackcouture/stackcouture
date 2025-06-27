@@ -2,10 +2,6 @@
 
 I'm a passionate and motivated DevOps engineer in the making, currently upskilling in advanced tools and practices. Formerly part of the tech workforce, I’m now focusing on building expertise in cloud-native DevOps, automation, and infrastructure as code.
 
-
-### 🔧 What I'm Learning
-Here are some ideas to get you started:
-
 ### 🔧 What I'm Learning
 - ✅ **CI/CD** with GitHub Actions, GitLab CI/CD
 - ✅ **Infrastructure as Code** using Terraform & AWS CloudFormation
