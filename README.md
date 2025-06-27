@@ -21,10 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&locale=en" alt="stackcouture" /></p>
 
 ###
-
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <br clear="both">
-
-![snake animation](https://<your-username>.github.io/snk/github-contribution-grid-snake.svg)
-
 ###
 
