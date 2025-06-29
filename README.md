@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">I'm a passionate and motivated DevOps engineer in the making, currently upskilling in advanced tools and practices. Formerly part of the tech workforce, I’m now focusing on building expertise in cloud-native DevOps, automation, and infrastructure as code.</h3>
+<h3 align="center">I'm passionate about infrastructure, automation, and cloud. This repo contains Terraform configs for managing EC2 instances and volumes on AWS, with IAM user & policy management.</h3>
+
+<h3 align="center">Feel free to explore, suggest improvements, or reach out if you want to collaborate!</h3>
+
+<h3 align="center"> Happy coding 🚀  </h3>
 
 - 🔭 I’m currently working on **CI/CD with Jenkins, GitHub Actions**
 
