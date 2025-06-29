@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<p><img src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif"/></p>
+<p>![Sample](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)</p>
 <h3 align="center">I'm passionate about infrastructure, automation, and cloud. This repo contains Terraform configs for managing EC2 instances and volumes on AWS, with IAM user & policy management.</h3>
 
 <h3 align="center">Feel free to explore, suggest improvements, or reach out if you want to collaborate!</h3>
