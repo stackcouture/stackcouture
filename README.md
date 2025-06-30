@@ -2,22 +2,21 @@
 <h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
 
 <p align="center">
-  👋 I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — backed by over 5 years in the IT industry.
-   I started my career as a PHP developer, which gave me a strong foundation in application development before fully transitioning into DevOps.
-  Recently, I returned from a 8-month career break focused on personal priorities and self-learning. Now, I'm actively upskilling and contributing to modern infrastructure projects  using  tools like AWS, Terraform, Kubernetes, Jenkins, and ArgoCD.
-I'm open to new DevOps opportunities where I can bring both developer insight and operational reliability to the table.
+  I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — built on a solid foundation in software engineering.<br>
+  With a background in PHP development, I bring a deep understanding of application lifecycles and developer needs, now fully focused on building scalable, secure, and automated DevOps solutions.<br>
+  After an 8-month career break dedicated to personal responsibilities and upskilling, I'm now contributing to cloud-native infrastructure projects using tools like <strong>AWS</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, <strong>Jenkins</strong>, and <strong>ArgoCD</strong>.<br>
+  I'm actively seeking DevOps opportunities where I can drive infrastructure excellence, improve deployment workflows, and support high-performing engineering teams.
 </p>
 
 ---
+🧑‍💻 About Me
 
-### 🧑‍💻 About Me
-
-- 🔧 Currently building **CI/CD pipelines** with Jenkins & GitHub Actions  
-- 🌱 Exploring **ArgoCD** for GitOps-style continuous delivery  
-- 🔁 5+ years of DevOps experience with real-world production systems  
-- 🎯 Transitioned into DevOps from a software engineering background  
-- 🔄 Returned after a 10-month career break — now upskilled and actively contributing  
-- 😄 Fun fact: My logs say I'm funny, and I trust logs 😎  
+  🔧 Designing and maintaining CI/CD pipelines using Jenkins and GitHub Actions
+  🌱 Currently learning and implementing GitOps workflows with ArgoCD
+  ☁️ Experienced in deploying and managing cloud-native infrastructure on AWS using Terraform and Kubernetes
+  👨‍💻 Transitioned from a software development background (PHP) to a DevOps role, bringing a full-stack perspective to automation
+  ⏸️ Took an 8-month career break for personal growth and self-learning — now back, upskilled, and project-ready
+  😄 Fun fact: I trust my logs more than my intuition — and they say I’m funny 😎
 
 ---
 
