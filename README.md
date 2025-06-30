@@ -9,14 +9,16 @@
 </p>
 
 ---
-🧑‍💻 About Me
 
-  🔧 Designing and maintaining CI/CD pipelines using Jenkins and GitHub Actions
-  🌱 Currently learning and implementing GitOps workflows with ArgoCD
-  ☁️ Experienced in deploying and managing cloud-native infrastructure on AWS using Terraform and Kubernetes
-  👨‍💻 Transitioned from a software development background (PHP) to a DevOps role, bringing a full-stack perspective to automation
-  ⏸️ Took an 8-month career break for personal growth and self-learning — now back, upskilled, and project-ready
-  😄 Fun fact: I trust my logs more than my intuition — and they say I’m funny 😎
+### 🧑‍💻 About Me
+
+- 🔧 Designing and maintaining **CI/CD pipelines** using Jenkins and GitHub Actions  
+- 🌱 Currently learning and implementing **GitOps workflows** with ArgoCD  
+- ☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using Terraform and Kubernetes  
+- 👨‍💻 Transitioned from a **PHP development** background to a DevOps role, bringing a full-stack perspective to automation  
+- ⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
+- 😄 **Fun fact**: I trust my logs more than my intuition — and they say I’m funny 😎  
+
 
 ---
 
