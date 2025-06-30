@@ -66,7 +66,11 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 
 ---
 
+### 🚀 Featured Projects (Under Development)
 
+- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS. *(Work in progress)*
+- [argo-gitops-pipeline](https://github.com/stackcouture/argo-gitops-pipeline) – GitOps-based CD pipeline using GitHub Actions and ArgoCD to automate Kubernetes deployments. *(Work in progress)*
+  
 ---
 
 ### 🧠 Always Learning
