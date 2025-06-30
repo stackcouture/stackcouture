@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
-<p align="center">
-*Building scalable, automated infrastructure with style.*
-I'm a Senior Software Engineer with 4+ years of hands-on DevOps experience — designing and managing cloud infrastructure, CI/CD pipelines, and automation. Though my official title is not "DevOps Engineer," I’ve taken full ownership of DevOps responsibilities using tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **ArgoCD**.
-I'm passionate about cloud-native technologies, automation, and infrastructure as code — and I'm currently seeking **DevOps engineering opportunities** where I can make a meaningful impact.
-</p>
+# 👋 Hi, I'm Naveen  
+🚀 **Senior Software Engineer with DevOps Expertise**  
+*Designing scalable, secure, and automated infrastructure with precision.*
+
+---
+
+I'm a **Senior Software Engineer** with over **4 years of hands-on DevOps experience**, focused on cloud infrastructure, CI/CD automation, and infrastructure as code.
+
+While my official title has been *Senior Software Engineer*, I’ve consistently taken ownership of **DevOps responsibilities** — delivering secure, scalable infrastructure using tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **ArgoCD**.
+
+I’ve been on a **career break since September 2024** for personal growth and upskilling. During this time, I’ve actively prepared for the **CKA (Certified Kubernetes Administrator)** certification, built **Terraform modules**, and explored **GitOps workflows** — keeping myself project-ready and aligned with the latest DevOps practices.
+
+I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 
 ---
 
