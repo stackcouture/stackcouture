@@ -2,7 +2,10 @@
 <h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
 
 <p align="center">
-  A passionate engineer building reliable, scalable, and automated DevOps infrastructure on the cloud.
+  👋 I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — backed by over 5 years in the IT industry.
+   I started my career as a PHP developer, which gave me a strong foundation in application development before fully transitioning into DevOps.
+  Recently, I returned from a 8-month career break focused on personal priorities and self-learning. Now, I'm actively upskilling and contributing to modern infrastructure projects  using  tools like AWS, Terraform, Kubernetes, Jenkins, and ArgoCD.
+I'm open to new DevOps opportunities where I can bring both developer insight and operational reliability to the table.
 </p>
 
 ---
