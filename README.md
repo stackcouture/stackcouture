@@ -3,14 +3,12 @@
 </h3>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left">
-    🚀 DevOps-Focused Engineer | Ex-Senior Software Engineer
-  </marquee>
+  🚀 DevOps-Focused Engineer &nbsp;|&nbsp; Ex–Senior Software Engineer
 </p>
 
-<h2 align="center">I'm a software engineer who transitioned into DevOps through hands-on experience and real-world responsibilities.  
+<h5 align="center">I'm a software engineer who transitioned into DevOps through hands-on experience and real-world responsibilities.  
 With over 5 years of experience in CI/CD, infrastructure automation, and cloud deployment, I've recently upskilled further after a 10-month career break focused on personal responsibilities and self-learning.
-</h2>
+</h5>
 
 <h3 align="center">Feel free to explore, suggest improvements, or reach out if you want to collaborate!</h3>
 
