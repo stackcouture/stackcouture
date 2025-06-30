@@ -62,6 +62,7 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 <p align="center">
   <a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-stackcouture-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/naveen-ramlu"><img src="https://img.shields.io/badge/LinkedIn-naveen--ramlu-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://medium.com/@naveenramlu28"><img src="https://img.shields.io/badge/Medium-@naveenramlu28-black?style=for-the-badge&logo=medium" /></a>
 </p>
 
 ---
