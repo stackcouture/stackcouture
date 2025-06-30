@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
-
 <p align="center">
-  I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — built on a solid foundation in software engineering.<br>
-  With a background in PHP development, I bring a deep understanding of application lifecycles and developer needs, now fully focused on building scalable, secure, and automated DevOps solutions.<br>
-  After an 8-month career break dedicated to personal responsibilities and upskilling, I'm now contributing to cloud-native infrastructure projects using tools like <strong>AWS</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, <strong>Jenkins</strong>, and <strong>ArgoCD</strong>.<br>
-  I'm actively seeking DevOps opportunities where I can drive infrastructure excellence, improve deployment workflows, and support high-performing engineering teams.
+  I'm a DevOps engineer with 4+ years of experience in cloud infrastructure, CI/CD, and automation, built on a foundation in software engineering.<br>
+  After starting my career in PHP development, I transitioned into DevOps to focus on scalable, secure, and automated solutions.<br>
+  Now, after an 8-month career break for upskilling and personal priorities, I'm working with tools like <strong>AWS</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, <strong>Jenkins</strong>, and <strong>ArgoCD</strong> — and actively seeking new DevOps opportunities.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔧 Designing and maintaining **CI/CD pipelines** using Jenkins and GitHub Actions  
-- 🌱 Currently learning and implementing **GitOps workflows** with ArgoCD  
-- ☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using Terraform and Kubernetes  
-- 👨‍💻 Transitioned from a **PHP development** background to a DevOps role, bringing a full-stack perspective to automation  
-- ⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
-- 😄 **Fun fact**: I trust my logs more than my intuition — and they say I’m funny 😎  
+🔧 Designing and maintaining **CI pipelines** using Jenkins 
+🌱 Currently learning and implementing GitOps workflows by integrating **ArgoCD** with **GitHub Actions** for **continuous delivery pipelines**.
+☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using Terraform and Kubernetes  
+👨‍💻 Transitioned from a **PHP development** background to a DevOps role, bringing a full-stack perspective to automation  
+⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
+😄 **Fun fact**: I trust my logs more than my intuition — and they say I’m funny 😎  
 
 
 ---
