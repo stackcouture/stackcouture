@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Naveen  
-🚀 **Senior Software Engineer with DevOps Expertise**  
+# 👋 Hi, I'm Naveen  🚀 **Senior Software Engineer**  
+
 *Designing scalable, secure, and automated infrastructure with precision.*
 
 ---
@@ -8,7 +8,7 @@ I'm a **Senior Software Engineer** with over **4 years of hands-on DevOps experi
 
 While my official title has been *Senior Software Engineer*, I’ve consistently taken ownership of **DevOps responsibilities** — delivering secure, scalable infrastructure using tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
 
-I’ve been on a **career break since Nov 2024** for personal growth and upskilling. During this time, I’ve actively prepared for the **CKA (Certified Kubernetes Administrator)** certification, built **Terraform modules**, and explored **GitOps workflows** — keeping myself project-ready and aligned with the latest DevOps practices.
+Since **November 2024**, I've taken a career break due to **family responsibilities and personal commitments**. During this time, I’ve continued upskilling — preparing for the **CKA (Certified Kubernetes Administrator)** certification, developing reusable **Terraform modules**, and exploring **GitOps workflows**.
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 
@@ -20,7 +20,8 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 - 🌱 Learning and implementing **GitOps workflows** by integrating **ArgoCD** with **GitHub Actions** for continuous delivery  
 - ☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using **Terraform** and **Kubernetes**  
 - 👨‍💻 Transitioned from a **PHP development background** to a DevOps role, bringing a full-stack perspective to automation  
-- ⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
+- ⏸️ Took a career break for family responsibilities and self-learning — now back, upskilled, and project-ready
+
 - 😄 **Fun fact:** I trust my logs more than my intuition — and they say I’m funny 😎
 
 
@@ -65,12 +66,6 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 
 ---
 
-### 📈 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=github_dark" height="160" />
-</p>
 
 ---
 
