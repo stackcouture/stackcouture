@@ -6,9 +6,9 @@
 
 I'm a **Senior Software Engineer** with over **4 years of hands-on DevOps experience**, focused on cloud infrastructure, CI/CD automation, and infrastructure as code.
 
-While my official title has been *Senior Software Engineer*, I’ve consistently taken ownership of **DevOps responsibilities** — delivering secure, scalable infrastructure using tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **ArgoCD**.
+While my official title has been *Senior Software Engineer*, I’ve consistently taken ownership of **DevOps responsibilities** — delivering secure, scalable infrastructure using tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
 
-I’ve been on a **career break since September 2024** for personal growth and upskilling. During this time, I’ve actively prepared for the **CKA (Certified Kubernetes Administrator)** certification, built **Terraform modules**, and explored **GitOps workflows** — keeping myself project-ready and aligned with the latest DevOps practices.
+I’ve been on a **career break since Nov 2024** for personal growth and upskilling. During this time, I’ve actively prepared for the **CKA (Certified Kubernetes Administrator)** certification, built **Terraform modules**, and explored **GitOps workflows** — keeping myself project-ready and aligned with the latest DevOps practices.
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 
