@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
 <p align="center">
-   I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — supported by over 5 years in the IT industry.
-I began my career in PHP development before transitioning into DevOps, where I now focus on building scalable, secure, and automated infrastructure solutions.
-I work with tools like AWS, Terraform, Kubernetes, Jenkins, and ArgoCD, and I’m actively seeking new opportunities in DevOps engineering.
+ I'm a DevOps engineer with 4+ years of hands-on experience in cloud infrastructure, CI/CD, and automation — supported by over 5 years in the IT industry. I began my career in PHP development before transitioning into DevOps, where I now focus on building scalable, secure, and automated infrastructure solutions.
+<br/>
+I’ve worked extensively with tools like **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **ArgoCD**, and I’m actively seeking new opportunities in DevOps engineering roles.
+
 </p>
 
 ---
