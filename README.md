@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">🚀 DevOps-Focused Engineer | Ex–Senior Software Engineer</h3>
-<p align="center">
+<p>
   I'm a DevOps engineer with 4+ years of experience in cloud infrastructure, CI/CD, and automation, built on a foundation in software engineering.<br>
   After starting my career in PHP development, I transitioned into DevOps to focus on scalable, secure, and automated solutions.<br>
   Now, after an 8-month career break for upskilling and personal priorities, I'm working with tools like <strong>AWS</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, <strong>Jenkins</strong>, and <strong>ArgoCD</strong> — and actively seeking new DevOps opportunities.
@@ -10,12 +10,12 @@
 
 ### 🧑‍💻 About Me
 
-🔧 Designing and maintaining **CI pipelines** using Jenkins 
-🌱 Currently learning and implementing GitOps workflows by integrating **ArgoCD** with **GitHub Actions** for **continuous delivery pipelines**.
-☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using Terraform and Kubernetes  
-👨‍💻 Transitioned from a **PHP development** background to a DevOps role, bringing a full-stack perspective to automation  
-⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
-😄 **Fun fact**: I trust my logs more than my intuition — and they say I’m funny 😎  
+- 🔧 Designing and maintaining **CI pipelines** using Jenkins  
+- 🌱 Learning and implementing **GitOps workflows** by integrating **ArgoCD** with **GitHub Actions** for continuous delivery  
+- ☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using **Terraform** and **Kubernetes**  
+- 👨‍💻 Transitioned from a **PHP development background** to a DevOps role, bringing a full-stack perspective to automation  
+- ⏸️ Took an **8-month career break** for personal growth and self-learning — now back, upskilled, and project-ready  
+- 😄 **Fun fact:** I trust my logs more than my intuition — and they say I’m funny 😎
 
 
 ---
@@ -36,7 +36,6 @@
 ### 💻 Languages & Platforms
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
