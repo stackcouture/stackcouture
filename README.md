@@ -4,7 +4,7 @@
 
 ---
 
-I'm an experienced **Senior Software Engineer** with over **5 years in the IT industry**, including **4+ years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
+I'm an experienced **Senior Software Engineer** with over **5+ years in the IT industry**, including **4+ years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
 
 Over time, I transitioned into **DevOps**, where I took full ownership of infrastructure automation — focusing on **cloud-native development**, **CI/CD pipelines**, and **infrastructure as code**. My toolset includes **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
 
@@ -62,7 +62,7 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 <p align="center">
   <a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-stackcouture-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/naveen-ramlu"><img src="https://img.shields.io/badge/LinkedIn-naveen--ramlu-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://medium.com/@naveenramlu28"><img src="https://img.shields.io/badge/Medium-@naveenramlu28-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://stackcouture.medium.com/"><img src="https://img.shields.io/badge/Medium-@stackcouture-black?style=for-the-badge&logo=medium" /></a>
 </p>
 
 ---
