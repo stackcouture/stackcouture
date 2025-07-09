@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀" alt="Typing SVG")](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Naveen  🚀 **Senior Software Engineer**  
