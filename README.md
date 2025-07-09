@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+StackCouture's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Naveen  🚀 **Senior Software Engineer**  
 
