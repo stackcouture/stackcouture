@@ -15,7 +15,6 @@ Since **November 2024**, I've taken a career break due to **family responsibilit
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 
 ---
-![](https://komarev.com/ghpvc/?username=stackcouture&color=green)
 
 ### 🧑‍💻 About Me
 
