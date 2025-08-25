@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-# 👋 Hey, I'm Naveen **Senior Software Engineer (DevOps Focus)**  
+# 👋 Hey, I'm Naveen **Senior Software Engineer **  
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 
