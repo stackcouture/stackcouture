@@ -12,6 +12,8 @@ Since **November 2024**, I've taken a career break due to **family responsibilit
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 ---
+![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
+---
 ### 🧑‍💻 About Me
 
   🔧 Designing and maintaining **CI pipelines** using Jenkins  
@@ -55,7 +57,6 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 ### 🌐 Connect with Me
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
   <a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-stackcouture-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/naveen-ramlu"><img src="https://img.shields.io/badge/LinkedIn-naveen--r-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://stackcouture.medium.com/"><img src="https://img.shields.io/badge/Medium-@stackcouture-black?style=for-the-badge&logo=medium" /></a>
