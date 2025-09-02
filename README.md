@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
-
 # 👋 Hey, I'm Naveen **Senior Software Engineer **  
 
 *Designing scalable, secure, and automated infrastructure with precision.*
@@ -57,6 +55,7 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 ### 🌐 Connect with Me
 
 <p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
   <a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-stackcouture-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/naveen-ramlu"><img src="https://img.shields.io/badge/LinkedIn-naveen--r-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://stackcouture.medium.com/"><img src="https://img.shields.io/badge/Medium-@stackcouture-black?style=for-the-badge&logo=medium" /></a>
