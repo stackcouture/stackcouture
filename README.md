@@ -1,8 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
+![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
+
 # 👋 Hey, I'm Naveen **Senior Software Engineer **  
 
-![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
 I'm an experienced **Senior Software Engineer** with over **5+ years in the IT industry**, including **4 years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
