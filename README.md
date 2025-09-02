@@ -1,15 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/stackcouture&title=Profile%20Views)](https://hits.seeyoufarm.com)
-
-
-
 # 👋 Hey, I'm Naveen **Senior Software Engineer **  
 
+![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
 *Designing scalable, secure, and automated infrastructure with precision.*
-
 ---
-
 I'm an experienced **Senior Software Engineer** with over **5+ years in the IT industry**, including **4 years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
 
 Over time, I transitioned into **DevOps**, where I took full ownership of infrastructure automation — focusing on **cloud-native development**, **CI/CD pipelines**, and **infrastructure as code**. My toolset includes **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
@@ -17,9 +12,7 @@ Over time, I transitioned into **DevOps**, where I took full ownership of infras
 Since **November 2024**, I've taken a career break due to **family responsibilities and personal commitments**. During this time, I’ve continued upskilling — preparing for the **CKA (Certified Kubernetes Administrator)** certification, developing reusable **Terraform modules**, and exploring **GitOps workflows**.
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
-
 ---
-
 ### 🧑‍💻 About Me
 
   🔧 Designing and maintaining **CI pipelines** using Jenkins  
@@ -29,8 +22,6 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
   ⏸️ Took a career break for family responsibilities and self-learning — now back, upskilled, and project-ready
 
   😄 **Fun fact:** I trust my logs more than my intuition — and they say I’m funny 😎
-
-
 ---
 
 ### 🛠️ Tools & Technologies
@@ -43,7 +34,6 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 | 🐳 **Containers & Orchestration** | Docker, Kubernetes, Helm |
 | 📊 **Monitoring & Logging**  | Prometheus, Grafana, ELK Stack |
 | 💻 **Scripting**             | Bash |
-
 ---
 
 ### 💻 Languages & Platforms
