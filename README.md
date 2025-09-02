@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/stackcouture&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/stackcouture&title=Profile%20Views)](https://hits.seeyoufarm.com)
+
 
 
 # 👋 Hey, I'm Naveen **Senior Software Engineer **  
