@@ -4,7 +4,7 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-I'm an experienced **Senior Software Engineer** with over **5+ years in the IT industry**, including **4 years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
+I'm an experienced **Senior Software Engineer** with over **nearly 6 years in the IT industry**, including **4 years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
 
 Over time, I transitioned into **DevOps**, where I took full ownership of infrastructure automation — focusing on **cloud-native development**, **CI/CD pipelines**, and **infrastructure as code**. My toolset includes **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
 
