@@ -19,7 +19,6 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
   🔧 Designing and maintaining **CI pipelines** using Jenkins  
   🌱 Learning and implementing **GitOps workflows** by integrating **ArgoCD** with **GitHub Actions** for continuous deployment  
   ☁️ Experienced in deploying and managing **cloud-native infrastructure** on AWS using **Terraform** and **Kubernetes**  
-  👨‍💻 Transitioned from a **PHP development background** to a DevOps role, bringing a full-stack perspective to automation  
   ⏸️ Took a career break for family responsibilities and self-learning — now back, upskilled, and project-ready
 
   😄 **Fun fact:** I trust my logs more than my intuition — and they say I’m funny 😎
