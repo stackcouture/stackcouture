@@ -4,11 +4,11 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-I'm an experienced **Senior Software Engineer** with over **nearly 6 years in the IT industry**, including **4 years of hands-on DevOps experience**. I began my career as a **Full Stack PHP Developer**, which gave me a strong foundation in software engineering principles and end-to-end delivery.
+Experienced Senior Software Engineer (DevOps) with 5+ years of hands-on experience in cloud infrastructure, CI/CD automation, and infrastructure as code. Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm, and ArgoCD, with proven success in building secure, scalable, and automated deployment pipelines.
 
-Over time, I transitioned into **DevOps**, where I took full ownership of infrastructure automation — focusing on **cloud-native development**, **CI/CD pipelines**, and **infrastructure as code**. My toolset includes **AWS**, **Terraform**, **Kubernetes**, **Jenkins**, and **Docker**.
+Possess a strong foundation in software engineering and application delivery, complemented by deep expertise in infrastructure automation, containerization, and cloud-native development.
 
-Since **November 2024**, I've taken a career break due to **family responsibilities and personal commitments**. During this time, I’ve continued upskilling — preparing for the **CKA (Certified Kubernetes Administrator)** certification, developing reusable **Terraform modules**, and exploring **GitOps workflows**.
+Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. I am currently preparing for the CKA (Certified Kubernetes Administrator) certification, building reusable Terraform modules, and exploring GitOps workflows to stay aligned with industry best practices.
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 ---
