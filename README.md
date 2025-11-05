@@ -4,11 +4,20 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-Experienced Senior Software Engineer (DevOps) with 5+ years of hands-on experience in cloud infrastructure, CI/CD automation, and infrastructure as code. Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm, and ArgoCD, with proven success in building secure, scalable, and automated deployment pipelines.
+Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 4 years in DevOps, specializing in cloud infrastructure, CI/CD automation and Infrastructure as Code (IaC).
 
-Possess a strong foundation in software engineering and application delivery, complemented by deep expertise in infrastructure automation, containerization, and cloud-native development.
+My journey into DevOps began with a curiosity about how small pieces of infrastructure come together to power large-scale systems. Before transitioning fully into DevOps, I developed dynamic web applications and CRM solutions using PHP and MySQL, which gave me a strong foundation in backend development, problem-solving and system design.
 
-Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. I am currently preparing for the CKA (Certified Kubernetes Administrator) certification, building reusable Terraform modules, and exploring GitOps workflows to stay aligned with industry best practices.
+Over the past few years, I’ve built and automated cloud-native environments on AWS, streamlined CI/CD pipelines and containerized applications to simplify and accelerate deployments. Along the way, I discovered a deep passion for DevSecOps — integrating security, automation and observability into every stage of the delivery lifecycle.
+
+Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm and ArgoCD, I have a proven record of building secure, scalable and automated deployment pipelines that support high-availability systems.
+
+Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I’ve been:
+
+- 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** certification  
+- 🏗️ Building **reusable Terraform modules** for infrastructure automation  
+- 🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
+- ☁️ Expanding expertise across **Azure** and **GCP**, focusing on **multi-cloud architectures** and **IaC-driven reliability**  
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 ---
