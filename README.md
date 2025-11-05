@@ -14,10 +14,10 @@ Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm and ArgoCD, I
 
 Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I’ve been:
 
-- 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** certification  
-- 🏗️ Building **reusable Terraform modules** for infrastructure automation  
-- 🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
-- ☁️ Expanding expertise across **Azure** and **GCP**, focusing on **multi-cloud architectures** and **IaC-driven reliability**  
+ 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** certification  
+ 🏗️ Building **reusable Terraform modules** for infrastructure automation  
+ 🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
+ ☁️ Expanding expertise across **Azure** and **GCP**, focusing on **multi-cloud architectures** and **IaC-driven reliability**  
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 ---
