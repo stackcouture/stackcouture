@@ -4,7 +4,7 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 4 years in DevOps, specializing in cloud infrastructure, CI/CD automation and Infrastructure as Code (IaC).
+Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 3 years in DevOps, specializing in cloud infrastructure, CI/CD automation and Infrastructure as Code (IaC).
 
 My journey into DevOps began with a curiosity about how small pieces of infrastructure come together to power large-scale systems. Before transitioning fully into DevOps, I developed dynamic web applications and CRM solutions using PHP and MySQL, which gave me a strong foundation in backend development, problem-solving and system design.
 
@@ -14,10 +14,9 @@ Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm and ArgoCD, I
 
 Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I’ve been:
 
- 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** certification  
+ 🧠 Preparing for the **AWS SAA** certification  
  🏗️ Building **reusable Terraform modules** for infrastructure automation  
  🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
- ☁️ Expanding expertise across **Azure** and **GCP**, focusing on **multi-cloud architectures** and **IaC-driven reliability**  
 
 I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
 ---
@@ -44,7 +43,7 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 | 🔁 **CI/CD**                 | Jenkins, GitHub Actions, ArgoCD |
 | 🐳 **Containers & Orchestration** | Docker, Kubernetes, Helm |
 | 📊 **Monitoring & Logging**  | Prometheus, Grafana, ELK Stack |
-| 💻 **Scripting**             | Bash |
+| 💻 **Scripting**             | Bash, Python |
 ---
 
 ### 💻 Languages & Platforms
