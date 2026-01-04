@@ -14,7 +14,7 @@ Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm and ArgoCD, I
 
 Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I’ve been:
 
- 🧠 Preparing for the **AWS SAA** certification  
+ 🧠 Completed the **AWS SAA** certification  
  🏗️ Building **reusable Terraform modules** for infrastructure automation  
  🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
 
@@ -73,9 +73,10 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 ---
 
 ### 🚀 Featured Projects
-- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS. *(Work in progress)*
-- [devops-gitops-pipeline](https://github.com/stackcouture/devops-gitops-pipeline) – CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices. *(Work in progress)*
-  
+- [devsecops-gitops-automation](https://github.com/stackcouture/devsecops-gitops-automation) - CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices
+- [ECS-Project](https://github.com/stackcouture/aws-ecs-proj) - Website deployed on AWS ECS with a complete CI/CD pipeline using Jenkins and Terraform
+- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS
+- [terraform-basic](https://github.com/stackcouture/terraform-projects-portfolio) - Creating IAM, Hosting wesbsite on S3, EBS volumes through Terraform
 ---
 
 ### 🧠 Always Learning
