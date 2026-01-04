@@ -4,21 +4,19 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 3 years in DevOps, specializing in cloud infrastructure, CI/CD automation and Infrastructure as Code (IaC).
+Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 3+ years specializing in DevOps, cloud infrastructure, CI/CD automation, and Infrastructure as Code (IaC).
 
-My journey into DevOps began with a curiosity about how small pieces of infrastructure come together to power large-scale systems. Before transitioning fully into DevOps, I developed dynamic web applications and CRM solutions using PHP and MySQL, which gave me a strong foundation in backend development, problem-solving and system design.
+My journey into DevOps began with a curiosity about how individual infrastructure components come together to power reliable, large-scale systems. Prior to transitioning fully into DevOps, I worked on backend and full-stack development, building dynamic web applications and CRM solutions using PHP and MySQL. This background strengthened my understanding of application architecture, debugging, and system-level problem solving—skills that continue to influence how I design and operate infrastructure today.
 
-Over the past few years, I’ve built and automated cloud-native environments on AWS, streamlined CI/CD pipelines and containerized applications to simplify and accelerate deployments. Along the way, I discovered a deep passion for DevSecOps — integrating security, automation and observability into every stage of the delivery lifecycle.
+In recent years, I have designed and automated cloud-native environments on AWS, built and optimized CI/CD pipelines, and containerized applications to enable faster, more reliable deployments. I’ve developed a strong interest in DevSecOps, focusing on embedding security, automation, and observability throughout the software delivery lifecycle.
 
-Skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm and ArgoCD, I have a proven record of building secure, scalable and automated deployment pipelines that support high-availability systems.
+I am skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm, and ArgoCD, with hands-on experience building secure, scalable, and highly automated deployment pipelines that support high-availability systems.
 
-Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I’ve been:
+Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I:
+* Completed the AWS Certified Solutions Architect – Associate (SAA) certification
+* Built and documented hands-on DevOps, cloud, and GitOps projects, shared on my GitHub profile, covering AWS, Terraform, CI/CD pipelines, Kubernetes, and DevSecOps practices
 
- 🧠 Completed the **AWS SAA** certification  
- 🏗️ Building **reusable Terraform modules** for infrastructure automation  
- 🚀 Exploring **GitOps workflows** and **advanced CI/CD design patterns**  
-
-I'm now actively seeking opportunities where I can contribute to cloud-native, automation-driven teams and deliver meaningful infrastructure outcomes.
+I’m now actively seeking opportunities where I can contribute as a DevOps / Platform Engineer, helping teams build resilient, secure, and automation-driven cloud systems.
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
 ---
