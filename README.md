@@ -42,8 +42,8 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 | 🧱 **Infrastructure as Code** | Terraform |
 | 🔁 **CI/CD**                 | Jenkins, GitHub Actions, ArgoCD |
 | 🐳 **Containers & Orchestration** | Docker, Kubernetes, Helm |
-| 📊 **Monitoring & Logging**  | Prometheus, Grafana, ELK Stack |
-| 💻 **Scripting**             | Bash, Python |
+| 📊 **Monitoring & Logging**  | Prometheus, Grafana |
+| 💻 **Scripting**             | Bash |
 ---
 
 ### 💻 Languages & Platforms
@@ -73,8 +73,7 @@ I'm now actively seeking opportunities where I can contribute to cloud-native, a
 
 ---
 
-### 🚀 Featured Projects (Under Development)
-
+### 🚀 Featured Projects
 - [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS. *(Work in progress)*
 - [devops-gitops-pipeline](https://github.com/stackcouture/devops-gitops-pipeline) – CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices. *(Work in progress)*
   
