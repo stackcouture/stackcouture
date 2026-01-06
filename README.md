@@ -4,7 +4,7 @@
 
 *Designing scalable, secure, and automated infrastructure with precision.*
 ---
-Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 3+ years specializing in DevOps, cloud infrastructure, CI/CD automation, and Infrastructure as Code (IaC).
+Experienced Senior Software Engineer (DevOps) with 5+ years of total IT experience, including 4 years specializing in DevOps, cloud infrastructure, CI/CD automation, and Infrastructure as Code (IaC).
 
 My journey into DevOps began with a curiosity about how individual infrastructure components come together to power reliable, large-scale systems. Prior to transitioning fully into DevOps, I worked on backend and full-stack development, building dynamic web applications and CRM solutions using PHP and MySQL. This background strengthened my understanding of application architecture, debugging, and system-level problem solving—skills that continue to influence how I design and operate infrastructure today.
 
