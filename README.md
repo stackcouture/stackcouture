@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Naveen  
 ---
-AWS DevOps Engineer with 4 years of hands-on experience and 5+ years in IT, specializing in CI/CD pipeline design, cloud infrastructure automation with Terraform and secure AWS deployments. Skilled in Docker, Kubernetes, GitOps (ArgoCD), Helm and security compliance
+AWS DevOps Engineer with 3 years of hands-on experience and 5+ years in IT, specializing in CI/CD pipeline design, cloud infrastructure automation with Terraform and secure AWS deployments. Skilled in Docker, Kubernetes, GitOps (ArgoCD), Helm and security compliance
 
 My journey into DevOps began with a curiosity about how individual infrastructure components come together to power reliable, large-scale systems. Prior to transitioning fully into DevOps, I worked on backend and full-stack development, building dynamic web applications and CRM solutions using PHP and MySQL. This background strengthened my understanding of application architecture, debugging, and system-level problem solving—skills that continue to influence how I design and operate infrastructure today.
 
