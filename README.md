@@ -1,20 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-# 👋 Hey, I'm Naveen  
+# 👋 Hey, I'm a DevOps Engineer
 ---
-AWS DevOps Engineer with 3 years of hands-on experience and 5+ years in IT, specializing in CI/CD pipeline design, cloud infrastructure automation with Terraform and secure AWS deployments. Skilled in Docker, Kubernetes, GitOps (ArgoCD), Helm and security compliance
+I build cloud-native platforms on **AWS,** automate **secure CI/CD pipelines** and run production-grade **Kubernetes (EKS)** workloads using **GitOps (ArgoCD + Helm)**
 
-My journey into DevOps began with a curiosity about how individual infrastructure components come together to power reliable, large-scale systems. Prior to transitioning fully into DevOps, I worked on backend and full-stack development, building dynamic web applications and CRM solutions using PHP and MySQL. This background strengthened my understanding of application architecture, debugging, and system-level problem solving—skills that continue to influence how I design and operate infrastructure today.
+I enjoy turning messy deployments into **secure, repeatable, observable systems** 🚀
+Currently focused on **DevSecOps, platform automation** and **production-style infrastructure**
 
-In recent years, I have designed and automated cloud-native environments on AWS, built and optimized CI/CD pipelines, and containerized applications to enable faster, more reliable deployments. I’ve developed a strong interest in DevSecOps, focusing on embedding security, automation, and observability throughout the software delivery lifecycle.
-
-I am skilled in AWS, Kubernetes (EKS), Terraform, Jenkins, Docker, Helm, and ArgoCD, with hands-on experience building secure, scalable, and highly automated deployment pipelines that support high-availability systems.
-
-Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I:
-* Completed the AWS Certified Solutions Architect – Associate (SAA) certification
-* Built and documented hands-on DevOps, cloud, and GitOps projects, shared on my GitHub profile, covering AWS, Terraform, CI/CD pipelines, Kubernetes and DevSecOps practices
-
-I’m now actively seeking opportunities where I can contribute as a DevOps / Platform Engineer, helping teams build resilient, secure, and automation-driven cloud systems.
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
 ---
@@ -32,15 +24,16 @@ I’m now actively seeking opportunities where I can contribute as a DevOps / Pl
 
 ### 🛠️ Tools & Technologies
 
-| Category                      | Tools / Platforms |
-|------------------------------|-------------------|
-| ☁️ **Cloud**                 | AWS (EC2, S3, IAM, EKS, CloudWatch) |
-| 🧱 **Infrastructure as Code** | Terraform |
-| 🔁 **CI/CD**                 | Jenkins, GitHub Actions, ArgoCD |
-| 🐳 **Containers & Orchestration** | Docker, Kubernetes, Helm |
-| 📊 **Monitoring & Logging**  | Prometheus, Grafana |
-| 💻 **Scripting**             | Bash |
----
+| Category                       | Tools / Platforms                                   |
+|------------------------------  |---------------------------------------------------  |
+| **Cloud**                      | AWS (EC2, S3, IAM, EKS, CloudWatch, VPC, Route53)   |
+| **Infrastructure as Code**     | Terraform, Ansible                                  |
+| **CI/CD**                      | Jenkins, GitHub Actions, ArgoCD, Helm               |
+| **Containers & Orchestration** | Docker, Kubernetes (EKS)                            |
+| **Monitoring & Logging**       | Prometheus, Grafana, ELK, Alertmanager, Thonas      |
+| **Scripting**                  | Bash, Python, YAML                                  |
+| **DevSecOps**                  | Trivy, Snyk, SonarQube, SBOM, Cosgin                |
+  ---
 
 ### 💻 Languages & Platforms
 
@@ -57,6 +50,12 @@ I’m now actively seeking opportunities where I can contribute as a DevOps / Pl
 </p>
 
 ---
+### 🚀 Featured Projects
+- [devsecops-gitops-automation](https://github.com/stackcouture/devsecops-gitops-automation) - CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices
+- [ECS-Project](https://github.com/stackcouture/aws-ecs-proj) - Website deployed on AWS ECS with a complete CI/CD pipeline using Jenkins and Terraform
+- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS
+- [terraform-basic](https://github.com/stackcouture/terraform-projects-portfolio) - Creating IAM, Hosting wesbsite on S3, EBS volumes through Terraform
+---
 
 ### 🌐 Connect with Me
 
@@ -68,11 +67,11 @@ I’m now actively seeking opportunities where I can contribute as a DevOps / Pl
 
 ---
 
-### 🚀 Featured Projects
-- [devsecops-gitops-automation](https://github.com/stackcouture/devsecops-gitops-automation) - CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices
-- [ECS-Project](https://github.com/stackcouture/aws-ecs-proj) - Website deployed on AWS ECS with a complete CI/CD pipeline using Jenkins and Terraform
-- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS
-- [terraform-basic](https://github.com/stackcouture/terraform-projects-portfolio) - Creating IAM, Hosting wesbsite on S3, EBS volumes through Terraform
----
+Since November 2024, I have been on a planned career break for family responsibilities while continuing to upskill. During this period, I:
+* Completed the **AWS Certified Solutions Architect – Associate (SAA) certification**
+* Built and documented hands-on DevOps, cloud, and GitOps projects, shared on my GitHub profile, covering AWS, Terraform, CI/CD pipelines, Kubernetes and DevSecOps practices
 
-### 🧠 Always Learning
+I’m now actively seeking opportunities where I can contribute as a DevOps / Platform Engineer, helping teams build resilient, secure, and automation-driven cloud systems.
+
+
+### 🧠 Automate everything. Secure by default. Observe relentlessly.
