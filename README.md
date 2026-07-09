@@ -70,16 +70,6 @@ I enjoy building scalable, secure, and observable platforms that automate softwa
 | 🐳 **AWS DevSecOps Platform** | CI/CD pipelines with Jenkins, Docker and Terraform |
 
 ---
-
-## 📈 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/stackcouture/stackcouture/main/github-metrics.svg"/>
-
-</p>
-
----
 ## 🌐 Connect
 
 <p align="center">
@@ -88,16 +78,6 @@ I enjoy building scalable, secure, and observable platforms that automate softwa
 <a href="https://linkedin.com/in/naveen-stackcouture">LinkedIn</a> •
 <a href="https://github.com/stackcouture">GitHub</a> •
 <a href="https://stackcouture.medium.com">Medium</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/stackcouture/stackcouture/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
