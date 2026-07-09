@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Naveen
 
-### DevOps Engineer • Platform Engineer • Cloud Engineer
+### ☁️ DevOps Engineer • Platform Engineer • Cloud Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&center=true&vCenter=true&width=900&height=45&color=0EA5E9&lines=Building+Production-Grade+Cloud-Native+Platforms;Platform+Engineering+%7C+Kubernetes+%7C+GitOps;AWS+%7C+Google+Cloud+Platform+%7C+Terraform;Automation+%7C+Security+%7C+Observability" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Cloud-Native+Platforms;Google+Cloud+Platform+%7C+AWS+%7C+Kubernetes;Platform+Engineering+%7C+GitOps+%7C+DevSecOps;Automation+First+%7C+Security+by+Default+%7C+Observability+Built-In" />
 
 <p>
 
@@ -20,153 +20,191 @@
 <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
+<a href="https://www.linkedin.com/in/naveen-stackcouture">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 💡 About Me
+# 💡 Engineering Philosophy
 
-I'm a **DevOps & Platform Engineer** passionate about designing secure, scalable and automated cloud-native platforms.
+> **Build platforms, not pipelines.**
 
-My primary interests lie in **Platform Engineering, Kubernetes, Infrastructure as Code, GitOps, DevSecOps and Cloud Automation**, with a focus on building production-inspired environments that mirror real-world enterprise infrastructure.
-
-Rather than simply deploying applications, I enjoy building complete engineering platforms—from infrastructure provisioning and CI/CD automation to security enforcement, progressive delivery and observability.
-
----
-
-# 🚀 What I'm Working On
-
-- ☁️ Production Platform Engineering on Google Kubernetes Engine
-- ⚙️ Infrastructure as Code using Terraform
-- ☸️ Kubernetes Platform Automation
-- 🚀 GitOps with ArgoCD + GitHub Actions
-- 🔐 DevSecOps & Supply Chain Security
-- 📊 Monitoring, Logging & Cost Optimization
+- ✅ Infrastructure as Code
+- ✅ GitOps over Manual Operations
+- ✅ Secure by Default
+- ✅ Automation First
+- ✅ Observable Systems
+- ✅ Reproducible Infrastructure
+- ✅ Developer Experience Matters
 
 ---
 
-# 🏗️ Featured Platform Project
+# 🚀 What I Build
 
-## Production-Grade GitOps Platform on Google Kubernetes Engine
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Platforms
+
+- Google Cloud Platform
+- Amazon Web Services
+- Kubernetes Platforms
+- Platform Engineering
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Automation
+
+- Infrastructure as Code
+- GitOps
+- CI/CD Pipelines
+- DevSecOps
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏗 Production-Grade Platform Engineering
+
+## GitOps Platform on Google Kubernetes Engine
 
 A production-inspired cloud-native platform demonstrating modern Platform Engineering practices.
 
-### Platform Capabilities
+### 🚀 Platform Features
 
-✅ Private Google Kubernetes Engine Cluster
+- ☁️ Private Google Kubernetes Engine
+- 🏗 Modular Terraform Infrastructure
+- 🚀 GitHub Actions CI
+- 🔄 ArgoCD GitOps Delivery
+- 📦 Helm & Kustomize
+- 🌐 Gateway API + NGINX Gateway Fabric
+- 🚦 Argo Rollouts Progressive Delivery
+- 📈 Prometheus Monitoring
+- 📊 Grafana Dashboards
+- 🚨 Alertmanager
+- 💰 Kubecost
+- ⚡ KEDA Autoscaling
+- 🔐 Kyverno Policy Enforcement
+- 🔎 Trivy Security Scanning
+- 📄 SBOM Generation
+- ✍️ Cosign Image Signing
+- 🔑 External Secrets Operator
+- 🔒 Google Secret Manager
+- 🌍 Cloudflare DNS Automation
+- 📜 Cert Manager TLS Automation
 
-✅ Modular Terraform Infrastructure
+---
 
-✅ GitHub Actions CI Pipelines
+# 🏛 Platform Architecture
 
-✅ ArgoCD GitOps Deployment
+```mermaid
+flowchart LR
 
-✅ Helm & Kustomize
+Developer --> GitHub
 
-✅ Gateway API
+GitHub --> GitHubActions
 
-✅ NGINX Gateway Fabric
+GitHubActions --> ArtifactRegistry
 
-✅ Progressive Delivery using Argo Rollouts
+ArtifactRegistry --> ArgoCD
 
-✅ KEDA Event Driven Autoscaling
+ArgoCD --> GKE
 
-✅ External Secrets Operator
+GKE --> GatewayAPI
 
-✅ Google Secret Manager
+GatewayAPI --> Vote
 
-✅ Kyverno Policy Enforcement
+GatewayAPI --> Result
 
-✅ Trivy Vulnerability Scanning
+Vote --> Redis
 
-✅ SBOM Generation
+Result --> PostgreSQL
 
-✅ Cosign Image Signing
+Prometheus --> Grafana
 
-✅ Prometheus Monitoring
+Kyverno --> GKE
 
-✅ Grafana Dashboards
+ExternalSecrets --> SecretManager
 
-✅ Alertmanager
+KEDA --> Worker
 
-✅ Kubecost
-
-✅ Cert Manager
-
-✅ Cloudflare DNS Automation
+Kubecost --> GKE
+```
 
 ---
 
 # 🛠 Technology Stack
 
-<table>
+### ☁️ Cloud
 
-<tr>
-<td><b>Cloud</b></td>
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
+</p>
 
-AWS • Google Cloud Platform
+### ☸ Containers & Orchestration
 
-</td>
-</tr>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+</p>
 
-<tr>
-<td><b>Containers</b></td>
-<td>
+Helm • ArgoCD • Kustomize • Gateway API
 
-Docker • Kubernetes • Helm • Kustomize
+---
 
-</td>
-</tr>
+### ⚙ Infrastructure as Code
 
-<tr>
-<td><b>Infrastructure</b></td>
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
+</p>
 
-Terraform • Ansible
+---
 
-</td>
-</tr>
+### 🚀 CI/CD
 
-<tr>
-<td><b>CI/CD</b></td>
-<td>
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins"/>
+</p>
 
-GitHub Actions • Jenkins • ArgoCD
+ArgoCD • GitOps
 
-</td>
-</tr>
+---
 
-<tr>
-<td><b>Security</b></td>
-<td>
+### 🔐 DevSecOps
 
-Kyverno • Trivy • SonarQube • Snyk • Cosign • SBOM • External Secrets
+- Kyverno
+- Trivy
+- Cosign
+- SBOM
+- SonarQube
+- Snyk
+- External Secrets
 
-</td>
-</tr>
+---
 
-<tr>
-<td><b>Observability</b></td>
-<td>
+### 📈 Observability
 
-Prometheus • Grafana • Alertmanager • Kubecost
+- Prometheus
+- Grafana
+- Alertmanager
+- Kubecost
 
-</td>
-</tr>
+---
 
-<tr>
-<td><b>Scripting</b></td>
-<td>
+### 💻 Languages
 
-Bash • Python • YAML
-
-</td>
-</tr>
-
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux"/>
+</p>
 
 ---
 
@@ -174,89 +212,59 @@ Bash • Python • YAML
 
 ## 🚀 Production GitOps Platform
 
-Enterprise-style Kubernetes platform built on Google Cloud Platform.
+Production-ready cloud-native platform demonstrating Platform Engineering best practices.
 
-**Tech Stack**
+**Repository**
 
-Terraform • Kubernetes • ArgoCD • GitHub Actions • Gateway API • Argo Rollouts • Kyverno • Prometheus • Grafana
-
-🔗 https://github.com/stackcouture/voting-app
+https://github.com/stackcouture/voting-app
 
 ---
 
 ## ☁️ Platform Infrastructure
 
-Infrastructure provisioning using reusable Terraform modules.
+Reusable Terraform modules provisioning
 
 - VPC
 - Private GKE
+- IAM
 - Artifact Registry
 - Cloud Storage
-- IAM
 - Workload Identity
 
-🔗 https://github.com/stackcouture/platform-infra
+**Repository**
+
+https://github.com/stackcouture/platform-infra
 
 ---
 
 ## 🚀 GitOps Repository
 
-Complete GitOps deployment repository using
+GitOps deployment repository
 
 - ArgoCD
-- Helm
 - Kustomize
+- Helm
 - Progressive Delivery
 
-🔗 https://github.com/stackcouture/gitops-microservices-platform
+**Repository**
+
+https://github.com/stackcouture/gitops-microservices-platform
 
 ---
 
-# 📜 Certifications
-
-🏅 AWS Certified Solutions Architect – Associate
-
-🏅 Certified Kubernetes Administrator (Preparing)
-
----
-
-# 🌐 Connect
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<a href="https://stackcouture.online">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<a href="https://linkedin.com/in/naveen-stackcouture">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/stackcouture">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://stackcouture.medium.com">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
-</a>
-
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=stackcouture&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=stackcouture&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -272,24 +280,43 @@ Complete GitOps deployment repository using
 
 ---
 
-# 💭 Engineering Philosophy
+# 📜 Certifications
 
-> **Build platforms, not pipelines.**
+- 🏅 AWS Certified Solutions Architect – Associate
+- 🎯 Certified Kubernetes Administrator (In Progress)
 
-> **Automate repetitive work.**
+---
 
-> **Secure by default.**
+# 🌐 Connect With Me
 
-> **Observe everything.**
+<p align="center">
 
-> **Infrastructure should be reproducible, scalable and self-healing.**
+<a href="https://stackcouture.online">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveen-stackcouture">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/stackcouture">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://stackcouture.medium.com">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Turning infrastructure into reliable platforms through automation."*
+### **Automate Everything • Secure by Default • Observe Relentlessly**
+
+*"Turning cloud infrastructure into reliable, scalable, and production-ready platforms."*
 
 </div>
