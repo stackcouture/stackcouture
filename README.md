@@ -7,6 +7,16 @@ I design and build **production-inspired cloud-native platforms** with a strong 
 My work combines **Infrastructure as Code, GitOps, Kubernetes, CI/CD, DevSecOps, and Platform Engineering** to create scalable environments that closely resemble modern production systems.
 
 ---
+## 🚀 Current Focus
+
+- ☁️ Google Cloud Platform (GKE)
+- ⚙️ Platform Engineering
+- 🚀 GitOps using ArgoCD
+- 🔐 DevSecOps & Supply Chain Security
+- 📦 Kubernetes Automation
+- 📊 Observability & Cost Optimization
+
+---
 ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
 ---
 ### 🧑‍💻 About Me
