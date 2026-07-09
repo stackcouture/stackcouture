@@ -59,11 +59,125 @@ My work combines **Infrastructure as Code, GitOps, Kubernetes, CI/CD, DevSecOps,
 </p>
 
 ---
-### 🚀 Featured Projects
-- [devsecops-gitops-automation](https://github.com/stackcouture/devsecops-gitops-automation) - CI/CD pipeline using Jenkins (CI) and GitHub Actions + ArgoCD (CD) to deliver applications through GitOps practices
-- [ECS-Project](https://github.com/stackcouture/aws-ecs-proj) - Website deployed on AWS ECS with a complete CI/CD pipeline using Jenkins and Terraform
-- [terraform-eks-modules](https://github.com/stackcouture/terraform-eks-modules) – Reusable Terraform modules to provision secure and scalable EKS clusters on AWS
-- [terraform-basic](https://github.com/stackcouture/terraform-projects-portfolio) - Creating IAM, Hosting wesbsite on S3, EBS volumes through Terraform
+
+## 🏗 Featured Project
+
+# Production-Grade GitOps Platform on Google Kubernetes Engine
+
+A complete production-inspired platform built on **Google Cloud Platform** demonstrating modern Platform Engineering practices.
+
+### Highlights
+
+- Google Kubernetes Engine (Private Cluster)
+- Terraform Infrastructure Modules
+- GitHub Actions CI
+- ArgoCD GitOps Delivery
+- Kustomize
+- Helm
+- Gateway API
+- NGINX Gateway Fabric
+- Argo Rollouts Canary Deployments
+- Prometheus
+- Grafana
+- Alertmanager
+- Kubecost
+- KEDA Event Driven Autoscaling
+- Kyverno Policy Enforcement
+- Trivy Image Scanning
+- SBOM Generation
+- Cosign Image Signing
+- External Secrets Operator
+- Google Secret Manager
+- Cert Manager
+- Cloudflare DNS Automation
+
+---
+
+## 🛠 Tech Stack
+
+### Cloud
+
+- Google Cloud Platform
+- AWS
+
+### Containers
+
+- Docker
+- Kubernetes
+- Helm
+- Kustomize
+
+### Infrastructure as Code
+
+- Terraform
+- Ansible
+
+### GitOps & CI/CD
+
+- GitHub Actions
+- Jenkins
+- ArgoCD
+
+### Security
+
+- Trivy
+- SonarQube
+- Snyk
+- Cosign
+- SBOM
+- Kyverno
+- External Secrets
+
+### Observability
+
+- Prometheus
+- Grafana
+- Alertmanager
+- Kubecost
+
+### Languages
+
+- Bash
+- Python
+- YAML
+
+---
+
+## 🚀 Featured Repositories
+
+### 🌟 Production GitOps Platform
+Production-grade cloud-native platform on Google Kubernetes Engine.
+
+🔗 https://github.com/stackcouture/voting-app
+
+---
+
+### Infrastructure Repository
+
+Terraform modules provisioning
+
+- VPC
+- Private GKE Cluster
+- Artifact Registry
+- Cloud Storage
+- IAM
+- Workload Identity
+
+🔗 https://github.com/stackcouture/platform-infra
+
+---
+
+### GitOps Repository
+
+Complete GitOps repository using
+
+- ArgoCD
+- Kustomize
+- Helm
+- Progressive Delivery
+
+🔗 https://github.com/stackcouture/gitops-microservices-platform
+
 ---
 
 ### 🌐 Connect with Me
