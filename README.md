@@ -8,13 +8,14 @@
 
 ### DevOps Engineer · Platform Engineer · Cloud Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Grade+Cloud-Native+Platforms;AWS+%7C+Google+Cloud+Platform+%7C+Kubernetes;Terraform+%7C+GitOps+%7C+DevSecOps;Automation+First+%C2%B7+Security+by+Default" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&height=30&color=FFFFFF&vCenter=true&background=00000000&lines=Building+Production-Grade+Cloud-Native+Platforms;AWS+%7C+Google+Cloud+Platform+%7C+Kubernetes;Terraform+%7C+GitOps+%7C+DevSecOps;Automation+First+%C2%B7+Security+by+Default" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stackcouture.online-2E3A46?style=for-the-badge)](https://stackcouture.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-stackcouture)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stackcouture.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stackcouture.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-stackcouture)
 [![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://stackcouture.medium.com)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenrstackcouture@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=2E3A46&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,6 +24,8 @@
 ## About
 
 DevOps Engineer with 5+ years of IT experience, including 4+ years specializing in AWS, Kubernetes (Amazon EKS), and Platform Engineering. I design and build production-grade cloud-native platforms — combining Infrastructure as Code, GitOps, CI/CD, and DevSecOps to deliver software that's scalable, secure, and observable by default.
+
+Since November 2024 I've been on a planned career break for family responsibilities, using the time to deepen my platform engineering skills, earn a new certification, and ship hands-on projects — all documented on this profile.
 
 **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
@@ -38,21 +41,53 @@ DevOps Engineer with 5+ years of IT experience, including 4+ years specializing 
 
 ---
 
+## Experience
+
+**Prodapt Solutions Private Limited** — Senior Software Engineer `Oct 2021 – Nov 2024`
+Managed production-grade Amazon EKS clusters, resolved production incidents (crash loops, OOMKilled pods, ingress failures), and built GitOps deployment pipelines with Argo CD. Provisioned AWS infrastructure with reusable Terraform modules.
+
+**Greenlantern IT Solutions Private Limited** — Software Engineer `Apr 2020 – Aug 2021`
+Administered AWS infrastructure (EC2, ALB, Route 53, VPC), optimized Docker builds, and performed Linux server administration and storage management.
+
+**Trianabot Technologies Private Limited** — Software Engineer `Dec 2018 – Mar 2020`
+Developed backend applications, supported production systems, and collaborated on incident resolution and root cause analysis.
+
+---
+
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,python,bash,linux,git"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,python,bash,linux,git&theme=dark"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cosign-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm&logoColor=0F1689"/>
+<img src="https://img.shields.io/badge/Kustomize-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Kyverno-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Trivy-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cosign-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Falco-000000?style=for-the-badge&logo=falco&logoColor=00AEC7"/>
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackcouture&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stackcouture&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
 ---
@@ -69,13 +104,22 @@ DevOps Engineer with 5+ years of IT experience, including 4+ years specializing 
 
 ---
 
+## Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</p>
+
+---
+
 ## Connect
 
 <p align="center">
 <a href="https://stackcouture.online">Portfolio</a> ·
 <a href="https://linkedin.com/in/naveen-stackcouture">LinkedIn</a> ·
 <a href="https://github.com/stackcouture">GitHub</a> ·
-<a href="https://stackcouture.medium.com">Medium</a>
+<a href="https://stackcouture.medium.com">Medium</a> ·
+<a href="mailto:naveenrstackcouture@gmail.com">Email</a>
 </p>
 
 ---
