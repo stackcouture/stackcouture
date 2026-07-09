@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Naveen | DevOps & Platform Engineer" width="100%">
-</p>
-
 <div align="center">
 
 # Naveen
@@ -26,6 +22,8 @@
 DevOps Engineer with 5+ years of IT experience, including 4+ years specializing in AWS, Kubernetes (Amazon EKS), and Platform Engineering. I design and build production-grade cloud-native platforms — combining Infrastructure as Code, GitOps, CI/CD, and DevSecOps to deliver software that's scalable, secure, and observable by default.
 
 Since November 2024 I've been on a planned career break for family responsibilities, using the time to deepen my platform engineering skills, earn a new certification, and ship hands-on projects — all documented on this profile.
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
 
 ---
 
@@ -76,12 +74,12 @@ Developed backend applications, supported production systems, and collaborated o
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stackcouture&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=stackcouture&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackcouture&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=stackcouture&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
