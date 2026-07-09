@@ -1,11 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=780&color=FF0000&lines=Welcome+to+StackCouture's+GitHub+Profile!;Passionate+about+DevOps+and+Cloud+Engineering;Exploring+CI%2FCD%2C+Docker%2C+Kubernetes%2C+and+more!;Let%27s+build+something+amazing+together+🚀)
 
-# 👋 Hey, I'm a DevOps Engineer
+# 👋 Hey, I'm Naveen
 ---
-I build cloud-native platforms on **AWS,** automate **secure CI/CD pipelines** and run production-grade **Kubernetes (EKS)** workloads using **GitOps (ArgoCD + Helm)**
+I design and build **production-inspired cloud-native platforms** with a strong focus on **automation, security, observability, and developer experience.**
 
-I enjoy turning messy deployments into **secure, repeatable, observable systems** 🚀
-Currently focused on **DevSecOps, platform automation** and **production-style infrastructure**
+My work combines **Infrastructure as Code, GitOps, Kubernetes, CI/CD, DevSecOps, and Platform Engineering** to create scalable environments that closely resemble modern production systems.
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=blue)
