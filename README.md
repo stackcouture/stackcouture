@@ -27,8 +27,6 @@ DevOps Engineer with 5+ years of IT experience, including 4+ years specializing 
 
 Since November 2024 I've been on a planned career break for family responsibilities, using the time to deepen my platform engineering skills, earn a new certification, and ship hands-on projects — all documented on this profile.
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
-
 ---
 
 ## Current Focus
