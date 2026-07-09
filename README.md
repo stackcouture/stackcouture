@@ -111,11 +111,15 @@ Developed backend applications, supported production systems, and collaborated o
 ## Connect
 
 <p align="center">
-<a href="https://stackcouture.online">Portfolio</a> ·
-<a href="https://linkedin.com/in/naveen-stackcouture">LinkedIn</a> ·
-<a href="https://github.com/stackcouture">GitHub</a> ·
-<a href="https://stackcouture.medium.com">Medium</a> ·
-<a href="mailto:naveenrstackcouture@gmail.com">Email</a>
+<a href="https://stackcouture.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/naveen-stackcouture"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://stackcouture.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:naveenstackcouture@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
+
+<p align="center">
+<em>Open to DevOps / Platform Engineer roles — let's talk infrastructure, automation, or your next production incident 🔥</em>
 </p>
 
 ---
@@ -125,3 +129,4 @@ Developed backend applications, supported production systems, and collaborated o
 ### Automate everything · Secure by default · Observe relentlessly
 
 </div>
+
