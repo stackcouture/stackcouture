@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Naveen | DevOps & Platform Engineer" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Naveen
@@ -41,11 +45,18 @@ I enjoy building scalable, secure, and observable platforms that automate softwa
 
 </p>
 
-**Platform:** ArgoCD • Helm • Kustomize • Gateway API • Kyverno • KEDA
+<p align="center">
 
-**Observability:** Prometheus • Grafana • Alertmanager • Kubecost
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cosign-3F51B5?style=for-the-badge"/>
 
-**Security:** Trivy • SonarQube • Snyk • Cosign • External Secrets
+</p>
 
 ---
 
@@ -60,6 +71,15 @@ I enjoy building scalable, secure, and observable platforms that automate softwa
 
 ---
 
+## 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/stackcouture/stackcouture/main/github-metrics.svg"/>
+
+</p>
+
+---
 ## 🌐 Connect
 
 <p align="center">
@@ -68,6 +88,16 @@ I enjoy building scalable, secure, and observable platforms that automate softwa
 <a href="https://linkedin.com/in/naveen-stackcouture">LinkedIn</a> •
 <a href="https://github.com/stackcouture">GitHub</a> •
 <a href="https://stackcouture.medium.com">Medium</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/stackcouture/stackcouture/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
