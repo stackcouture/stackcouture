@@ -37,19 +37,6 @@ Since November 2024 I've been on a planned career break for family responsibilit
 
 ---
 
-## Experience
-
-**Prodapt Solutions Private Limited** — Senior Software Engineer `Oct 2021 – Nov 2024`
-Managed production-grade Amazon EKS clusters, resolved production incidents (crash loops, OOMKilled pods, ingress failures), and built GitOps deployment pipelines with Argo CD. Provisioned AWS infrastructure with reusable Terraform modules.
-
-**Greenlantern IT Solutions Private Limited** — Software Engineer `Apr 2020 – Aug 2021`
-Administered AWS infrastructure (EC2, ALB, Route 53, VPC), optimized Docker builds, and performed Linux server administration and storage management.
-
-**Trianabot Technologies Private Limited** — Software Engineer `Dec 2018 – Mar 2020`
-Developed backend applications, supported production systems, and collaborated on incident resolution and root cause analysis.
-
----
-
 ## Tech Stack
 
 <p align="center">
