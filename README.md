@@ -65,8 +65,17 @@ Since November 2024 I've been on a planned career break for family responsibilit
 <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E"/>
 </p>
 
----
 
+---
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| ⚙️ [**platform-engineering-portfolio**](https://github.com/stackcouture/platform-engineering-portfolio) | Production-inspired cloud-native platform on Google Kubernetes Engine (GKE) — GitOps delivery, Argo Rollouts, Vault, Kyverno, Falco, and full observability stack |
+| ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | DevSecOps platform on AWS using Terraform and Argo CD, with Jenkins + GitHub Actions CI/CD pipelines to Amazon EKS |
+| 🐳 [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployed on AWS ECS with a complete CI/CD pipeline built using Jenkins and Terraform |
+
+---
 ## GitHub Stats
 
 <p align="center">
@@ -83,17 +92,6 @@ Since November 2024 I've been on a planned career break for family responsibilit
 </p>
 
 ---
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| ⚙️ [**platform-engineering-portfolio**](https://github.com/stackcouture/platform-engineering-portfolio) | Production-inspired cloud-native platform on Google Kubernetes Engine (GKE) — GitOps delivery, Argo Rollouts, Vault, Kyverno, Falco, and full observability stack |
-| ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | DevSecOps platform on AWS using Terraform and Argo CD, with Jenkins + GitHub Actions CI/CD pipelines to Amazon EKS |
-| 🐳 [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployed on AWS ECS with a complete CI/CD pipeline built using Jenkins and Terraform |
-
----
-
 ## Certifications
 
 <p align="center">
