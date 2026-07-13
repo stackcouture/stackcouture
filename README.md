@@ -93,11 +93,16 @@ Since November 2024 I've been on a planned career break for family responsibilit
 </p>
 
 ---
-## Certifications
+## 🏆 Certifications
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect–Associate-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect – Associate" />
 </p>
+
+<p align="center">
+  <em>Committed to continuous learning and validating expertise through industry-recognized cloud and DevOps certifications.</em>
+</p>
+
 
 ---
 ## 🤝 Let's Connect
