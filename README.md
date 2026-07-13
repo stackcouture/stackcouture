@@ -100,20 +100,39 @@ Since November 2024 I've been on a planned career break for family responsibilit
 </p>
 
 ---
+## 🤝 Let's Connect
 
-## Connect
+Thank you for visiting my GitHub profile!
+
+I'm passionate about building **secure**, **scalable**, and **production-ready** cloud-native platforms, and I enjoy connecting with engineers, recruiters, and technology enthusiasts who share an interest in **Platform Engineering**, **DevOps**, and **Cloud Infrastructure**.
+
+If you're hiring for **DevOps Engineer** or **Platform Engineer** roles, interested in collaborating on open-source projects, or would like to discuss **Kubernetes**, **GitOps**, **Infrastructure as Code (Terraform)**, **CI/CD**, **Cloud Platforms (AWS & GCP)**, **DevSecOps**, or **Platform Automation**, I'd be delighted to connect.
+
+I'm always eager to contribute to innovative engineering teams, solve complex infrastructure challenges, and build reliable, scalable, and secure cloud platforms.
 
 <p align="center">
-<a href="https://stackcouture.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/naveen-stackcouture"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://github.com/stackcouture"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://stackcouture.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:naveenstackcouture@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://stackcouture.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/naveen-stackcouture" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/stackcouture" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stackcouture.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:naveenstackcouture@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-<em>Open to DevOps / Platform Engineer roles — let's talk infrastructure, automation, or your next production incident 🔥</em>
+  <strong>⭐ If you find my projects valuable, consider giving them a star.</strong><br>
+  Your support encourages me to continue building and sharing production-inspired DevOps, Kubernetes, GitOps, and Platform Engineering projects with the community.
 </p>
+
 
 ---
 
