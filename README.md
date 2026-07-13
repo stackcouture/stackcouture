@@ -73,8 +73,8 @@ Since November 2024 I've been on a planned career break for family responsibilit
 |---|---|
 | ⚙️ [**platform-engineering-portfolio**](https://github.com/stackcouture/platform-engineering-portfolio) | Production-inspired cloud-native platform on Google Kubernetes Engine (GKE) — GitOps delivery, Argo Rollouts, Vault, Kyverno, Falco, and full observability stack |
 | ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | DevSecOps platform on AWS using Terraform and Argo CD, with Jenkins + GitHub Actions CI/CD pipelines to Amazon EKS |
-| 🚀 [**eks-node-autoscaling**](https://github.com/stackcouture/eks-node-autoscaling) |
-Production-ready Amazon EKS node autoscaling implementation using Karpenter and Cluster Autoscaler, featuring IAM Roles for Service Accounts (IRSA), EC2NodeClass, NodePool, Spot/On-Demand capacity, intelligent node provisioning, consolidation, and cost optimization. |
+
+| 🚀 [**eks-node-autoscaling**](https://github.com/stackcouture/eks-node-autoscaling) | Production-ready Amazon EKS node autoscaling implementation using Karpenter and Cluster Autoscaler, featuring IAM Roles for Service Accounts (IRSA), EC2NodeClass, NodePool, Spot/On-Demand capacity, intelligent node provisioning, consolidation, and cost optimization. |
 | 🐳 [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployed on AWS ECS with a complete CI/CD pipeline built using Jenkins and Terraform |
 
 ---
