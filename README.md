@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="assets/banner_readme.png" alt="Naveen | DevOps & Platform Engineer" width="100%">
+</p>
+
 <div align="center">
-
-# Naveen
-
-### DevOps Engineer · Platform Engineer · Cloud Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&height=30&color=FFFFFF&vCenter=true&background=00000000&lines=Building+Production-Grade+Cloud-Native+Platforms;AWS+%7C+Google+Cloud+Platform+%7C+Kubernetes;Terraform+%7C+GitOps+%7C+DevSecOps;Automation+First+%C2%B7+Security+by+Default" />
 
