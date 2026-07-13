@@ -17,13 +17,22 @@
 
 ---
 
+## 👨‍💻 About Me
+
+🚀 **DevOps Engineer** with **5+ years of IT experience**, including **4+ years specializing in AWS, Kubernetes, and Platform Engineering**. Experienced in designing and building **production-grade cloud-native platforms** using **Infrastructure as Code (Terraform)**, **GitOps**, **CI/CD**, and **DevSecOps** practices to deliver **scalable, secure, reliable, and observable** systems.
+
+☁️ Skilled in automating **cloud infrastructure provisioning**, implementing Kubernetes-based application delivery across **Amazon EKS** and **Google Kubernetes Engine (GKE)**, building **CI/CD and GitOps workflows**, enforcing **security controls**, and enabling **end-to-end monitoring and observability** for modern cloud-native environments.
+
+📚 Continuously expanding expertise in **Google Cloud Platform (GCP)**, **Google Kubernetes Engine (GKE)**, **Platform Engineering**, and **DevSecOps** through hands-on projects focused on **Terraform-based infrastructure provisioning**, **GitOps with Argo CD**, **Kubernetes workload management**, **policy enforcement**, **progressive delivery**, **monitoring**, and **cloud-native automation**.
+
+<!-- 
 ## About
 
 DevOps Engineer with 5+ years of IT experience, including 4+ years specializing in AWS, Kubernetes (Amazon EKS), and Platform Engineering. I design and build production-grade cloud-native platforms — combining Infrastructure as Code, GitOps, CI/CD, and DevSecOps to deliver software that's scalable, secure, and observable by default.
 
 Since November 2024 I've been on a planned career break for family responsibilities, using the time to deepen my platform engineering skills, earn a new certification, and ship hands-on projects — all documented on this profile.
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
+**AWS Certified Solutions Architect – Associate (SAA-C03)** -->
 
 ---
 
