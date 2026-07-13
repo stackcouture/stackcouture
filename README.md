@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_readme.png" alt="Naveen | DevOps & Platform Engineer" width="100%">
+  <img src="assets/banner_readme2.png" alt="Naveen | DevOps & Platform Engineer" width="100%">
 </p>
 
 <div align="center">
