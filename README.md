@@ -96,11 +96,11 @@
 
 Thank you for visiting my GitHub profile!
 
-I'm passionate about building **secure**, **scalable**, and **production-ready** cloud-native platforms, and I enjoy connecting with engineers, recruiters, and technology enthusiasts who share an interest in **Platform Engineering**, **DevOps**, and **Cloud Infrastructure**.
+I'm passionate about building **secure**, **scalable**, and **production-ready** cloud-native infrastructure, and I enjoy connecting with engineers, recruiters, and technology enthusiasts who share an interest in **DevOps**, **Cloud Infrastructure**, **Kubernetes**, and **DevSecOps**.
 
-If you're hiring for **DevOps Engineer** or **Platform Engineer** roles, interested in collaborating on open-source projects, or would like to discuss **Kubernetes**, **GitOps**, **Infrastructure as Code (Terraform)**, **CI/CD**, **Cloud Platforms (AWS & GCP)**, **DevSecOps**, or **Platform Automation**, I'd be delighted to connect.
+If you're hiring for **DevOps Engineer**, **Cloud Engineer**, or **Site Reliability Engineer (SRE)** roles, interested in collaborating on open-source projects, or would like to discuss **Kubernetes**, **GitOps**, **Infrastructure as Code (Terraform)**, **CI/CD**, **Cloud Platforms (AWS & Google Cloud Platform)**, **DevSecOps**, or **Cloud Automation**, I'd be delighted to connect.
 
-I'm always eager to contribute to innovative engineering teams, solve complex infrastructure challenges, and build reliable, scalable, and secure cloud platforms.
+I'm always eager to contribute to engineering teams by automating infrastructure, improving deployment workflows, strengthening cloud security, and building reliable, scalable, and observable cloud-native environments.
 
 <p align="center">
   <a href="https://stackcouture.online" target="_blank">
