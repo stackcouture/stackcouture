@@ -27,11 +27,11 @@
 ---
 ## 🎯 Current Focus
 
-* ☸️ Production-grade Kubernetes on Google Kubernetes Engine (GKE)
-* 🔄 GitOps with Argo CD and Kustomize
-* 🔐 Software Supply Chain Security (Cosign, SBOM, Trivy)
-* 🛡️ Kubernetes Policy Enforcement with Kyverno
-* 📊 Platform Observability using Prometheus and Grafana
+* Production-grade Kubernetes on Google Kubernetes Engine (GKE)
+* GitOps with Argo CD and Kustomize
+* Software Supply Chain Security (Cosign, SBOM, Trivy)
+* Kubernetes Policy Enforcement with Kyverno
+* Platform Observability using Prometheus and Grafana
 
 ---
 ## Tech Stack
