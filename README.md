@@ -16,36 +16,24 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-🚀 **DevOps Engineer** with **5+ years of IT experience**, including **4+ years specializing in AWS, Kubernetes, and Platform Engineering**. Experienced in designing and building **production-grade cloud-native platforms** using **Infrastructure as Code (Terraform)**, **GitOps**, **CI/CD**, and **DevSecOps** practices to deliver **scalable, secure, reliable, and observable** systems.
+🚀 DevOps Engineer with **5+ years** of IT experience, including **4+** years specializing in **AWS, Kubernetes, and Cloud Infrastructure**. Experienced in designing, automating, and managing production-grade **cloud-native environments** using **Infrastructure as Code (Terraform), GitOps, CI/CD, and DevSecOps** practices to build scalable, secure, reliable, and observable systems.
 
-☁️ Skilled in automating **cloud infrastructure provisioning**, implementing Kubernetes-based application delivery across **Amazon EKS** and **Google Kubernetes Engine (GKE)**, building **CI/CD and GitOps workflows**, enforcing **security controls**, and enabling **end-to-end monitoring and observability** for modern cloud-native environments.
+☁️ Skilled in automating cloud infrastructure provisioning, deploying and managing Kubernetes workloads across **Amazon EKS** and **Google Kubernetes Engine (GKE)**, building **CI/CD** and **GitOps workflows**, implementing **infrastructure automation, enforcing security best practices,** and enabling end-to-end monitoring and observability for modern cloud-native applications.
 
-📚 Continuously expanding expertise in **Google Cloud Platform (GCP)**, **Google Kubernetes Engine (GKE)**, **Platform Engineering**, and **DevSecOps** through hands-on projects focused on **Terraform-based infrastructure provisioning**, **GitOps with Argo CD**, **Kubernetes workload management**, **policy enforcement**, **progressive delivery**, **monitoring**, and **cloud-native automation**.
-
-<!-- 
-## About
-
-DevOps Engineer with 5+ years of IT experience, including 4+ years specializing in AWS, Kubernetes (Amazon EKS), and Platform Engineering. I design and build production-grade cloud-native platforms — combining Infrastructure as Code, GitOps, CI/CD, and DevSecOps to deliver software that's scalable, secure, and observable by default.
-
-Since November 2024 I've been on a planned career break for family responsibilities, using the time to deepen my platform engineering skills, earn a new certification, and ship hands-on projects — all documented on this profile.
-
-**AWS Certified Solutions Architect – Associate (SAA-C03)** -->
+📚 Continuously expanding expertise in **Google Cloud Platform (GCP), Google Kubernetes Engine (GKE), Terraform, Kubernetes, GitOps, CI/CD,** and **DevSecOps** through hands-on projects focused on infrastructure provisioning, Kubernetes operations, policy enforcement, progressive delivery, monitoring, cloud security, and automation.
 
 ---
+## 🎯 Current Focus
 
-## Current Focus
-
-- ☁️ AWS & Google Cloud Platform
-- ☸️ Kubernetes administration and platform engineering
-- 🔄 GitOps delivery with Argo CD
-- 🔐 DevSecOps and software supply chain security
-- 📊 Observability and production reliability
+* ☸️ Production-grade Kubernetes on Google Kubernetes Engine (GKE)
+* 🔄 GitOps with Argo CD and Kustomize
+* 🔐 Software Supply Chain Security (Cosign, SBOM, Trivy)
+* 🛡️ Kubernetes Policy Enforcement with Kyverno
+* 📊 Platform Observability using Prometheus and Grafana
 
 ---
-
 ## Tech Stack
 
 <p align="center">
@@ -71,8 +59,8 @@ Since November 2024 I've been on a planned career break for family responsibilit
 
 | Project | Description |
 |---|---|
-| ⚙️ [**platform-engineering-portfolio**](https://github.com/stackcouture/platform-engineering-portfolio) | Production-inspired cloud-native platform on Google Kubernetes Engine (GKE) featuring GitOps, Argo Rollouts, Vault, Kyverno, Falco, and observability. |
-| ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | Production-ready AWS DevSecOps platform using Terraform, Jenkins, GitHub Actions, Argo CD, and Amazon EKS. |
+| ⚙️ [**cloud-native-gke**](https://github.com/stackcouture/cloud-native-gke) | Built a production-inspired Kubernetes environment on Google Kubernetes Engine featuring Terraform, GitOps, Argo Rollouts, Kyverno, Falco, Vault, KEDA, Gateway API, and complete observability. |
+| ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | Provisioned a production-ready Amazon EKS platform using Terraform with automated CI/CD, GitOps, security scanning, and infrastructure automation. |
 | 🚀 [**eks-node-autoscaling**](https://github.com/stackcouture/eks-node-autoscaling) | Production-ready Amazon EKS node autoscaling using Karpenter and Cluster Autoscaler with IRSA, EC2NodeClass, NodePool, and Spot/On-Demand capacity. |
 | 🐳 [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployment on Amazon ECS with a complete CI/CD pipeline using Jenkins and Terraform. |
 
@@ -84,13 +72,13 @@ Since November 2024 I've been on a planned career break for family responsibilit
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stackcouture&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stackcouture&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stackcouture&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
-</p>
+</p> -->
 
 ---
 ## 🏆 Certifications
@@ -100,9 +88,8 @@ Since November 2024 I've been on a planned career break for family responsibilit
 </p>
 
 <p align="center">
-  <em>Committed to continuous learning and validating expertise through industry-recognized cloud and DevOps certifications.</em>
+  <em>Passionate about continuous learning and strengthening expertise through hands-on projects, industry-recognized cloud certifications, and emerging DevOps technologies.</em>
 </p>
-
 
 ---
 ## 🤝 Let's Connect
