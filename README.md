@@ -59,10 +59,10 @@
 
 | Project | Description |
 |---|---|
-| ⚙️ [**cloud-native-gke**](https://github.com/stackcouture/cloud-native-gke) | Built a production-inspired Kubernetes environment on Google Kubernetes Engine featuring Terraform, GitOps, Argo Rollouts, Kyverno, Falco, Vault, KEDA, Gateway API, and complete observability. |
-| ☁️ [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | Provisioned a production-ready Amazon EKS platform using Terraform with automated CI/CD, GitOps, security scanning, and infrastructure automation. |
-| 🚀 [**eks-node-autoscaling**](https://github.com/stackcouture/eks-node-autoscaling) | Production-ready Amazon EKS node autoscaling using Karpenter and Cluster Autoscaler with IRSA, EC2NodeClass, NodePool, and Spot/On-Demand capacity. |
-| 🐳 [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployment on Amazon ECS with a complete CI/CD pipeline using Jenkins and Terraform. |
+| [**cloud-native-gke**](https://github.com/stackcouture/cloud-native-gke) | Built a production-inspired Kubernetes environment on Google Kubernetes Engine featuring Terraform, GitOps, Argo Rollouts, Kyverno, Falco, Vault, KEDA, Gateway API, and complete observability. |
+| [**devsecops-gitops-automation**](https://github.com/stackcouture/devsecops-gitops-automation) | Provisioned a production-ready Amazon EKS platform using Terraform with automated CI/CD, GitOps, security scanning, and infrastructure automation. |
+| [**eks-node-autoscaling**](https://github.com/stackcouture/eks-node-autoscaling) | Production-ready Amazon EKS node autoscaling using Karpenter and Cluster Autoscaler with IRSA, EC2NodeClass, NodePool, and Spot/On-Demand capacity. |
+| [**aws-ecs-proj**](https://github.com/stackcouture/aws-ecs-proj) | Website deployment on Amazon ECS with a complete CI/CD pipeline using Jenkins and Terraform. |
 
 ---
 ## GitHub Stats
