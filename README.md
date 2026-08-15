@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&height=30&color=FFFFFF&vCenter=true&background=00000000&lines=Building+Production-Grade+Cloud-Native+Platforms;AWS+%7C+Google+Cloud+Platform+%7C+Kubernetes;Terraform+%7C+GitOps+%7C+DevSecOps;Automation+First+%C2%B7+Security+by+Default" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stackcouture.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stackcouture.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-stackcouture)
-[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://stackcouture.medium.com)
-[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenrstackcouture@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
