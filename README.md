@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&height=30&color=FFFFFF&vCenter=true&background=00000000&lines=Building+Production-Grade+Cloud-Native+Platforms;AWS+%7C+Google+Cloud+Platform+%7C+Kubernetes;Terraform+%7C+GitOps+%7C+DevSecOps;Automation+First+%C2%B7+Security+by+Default" />
 
-
-![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -28,6 +25,10 @@
 * Software Supply Chain Security (Cosign, SBOM, Trivy)
 * Kubernetes Policy Enforcement with Kyverno
 * Platform Observability using Prometheus and Grafana
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=stackcouture&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 ## Tech Stack
