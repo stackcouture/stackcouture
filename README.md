@@ -103,7 +103,7 @@ If you're hiring for **DevOps Engineer**, **Cloud Engineer**, or **Site Reliabil
 I'm always eager to contribute to engineering teams by automating infrastructure, improving deployment workflows, strengthening cloud security, and building reliable, scalable, and observable cloud-native environments.
 
 <p align="center">
-  <a href="https://stackcouture.online" target="_blank">
+  <a href="https://stackcouture.cloud/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/naveen-stackcouture" target="_blank">
