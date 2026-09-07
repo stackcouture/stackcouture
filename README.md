@@ -11,7 +11,7 @@
 ---
 ## 👨‍💻 About Me
 
-🚀 DevOps Engineer with **5+ years** of IT experience, including **4+** years specializing in **AWS, Kubernetes, and Cloud Infrastructure**. Experienced in designing, automating, and managing production-grade **cloud-native environments** using **Infrastructure as Code (Terraform), GitOps, CI/CD, and DevSecOps** practices to build scalable, secure, reliable, and observable systems.
+🚀 DevOps Engineer with **5+ years** of IT experience, hands-on epxerience in **AWS, Kubernetes, and Cloud Infrastructure**. Experienced in designing, automating, and managing production-grade **cloud-native environments** using **Infrastructure as Code (Terraform), GitOps, CI/CD, and DevSecOps** practices to build scalable, secure, reliable, and observable systems.
 
 ☁️ Skilled in automating cloud infrastructure provisioning, deploying and managing Kubernetes workloads across **Amazon EKS** and **Google Kubernetes Engine (GKE)**, building **CI/CD** and **GitOps workflows**, implementing **infrastructure automation, enforcing security best practices,** and enabling end-to-end monitoring and observability for modern cloud-native applications.
 
